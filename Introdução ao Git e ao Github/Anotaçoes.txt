@@ -1,0 +1,31 @@
+link para o download do git: https://git-scm.com/download/win
+
+GIT – GITHUB Windows                                                                                               Linux / Git bash
+comandos no terminal – 
+dir: listar pastas                                                                                                              ls : lista pastas
+cd / : navegação de caminhos                                                                                      cd / : navegação
+cd .. : voltar na navegação                                                                                             cd .. : voltar navegação
+cls: limpar terminal                                                                                                       clear: limpar terminal ou ctrl+L 
+mkdir (nome da pasta : por padrão workspace) : criar pasta                               sudo su : pegar permissão 
+echo : printa a informação no terminal                                                              mkdir: (nome da pasta):criar pasta
+> : direcionar fluxo                                                                                                 echo = print e > = direcionar  fluxo
+del: apagar repositório                                                                                  rm -rf : apagar pastas r= apagar todas                                                                                                                                                                    f                                                                                                                           as pastas f= forçar sem confirmação
+remdir: apagar pastas
+
+SHA – Significa Secure Hash Algorithm ( algoritimo de hash seguro. 
+
+Gitbash comados –
+gerar chave ssh -ssh-keygen -t ed25519 -c marloncostasouza@gmail.com
+git init : iniciar o repositório na pasta
+git config – global user.email : configurar email
+git config –global user.name : configurar nome
+git add * : adicionar
+git comiit -m “comentario” = comitar 
+git status: status do arquivo
+mv: mover
+-a : exibir arquivo oculto
+
+
+objetos
+Blobs – Tree – commit
+
